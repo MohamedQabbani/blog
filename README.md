@@ -12,6 +12,6 @@ Run php artisan key:generate
 
 Run php artisan migrate
 
-Then open http://blog.app/ relate to your host And you will found login, register button on right above.
+Then open demo http://phplaravel-39116-82913-230111.cloudwaysapps.com/ to test, you will found login, register button on right above.
 
 After register you can add new post, edit post, delete post, and commit post.
